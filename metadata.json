@@ -1,0 +1,6 @@
+{
+  "name": "AI Stress Manager",
+  "description": "An intelligent stress management companion with real-time stress check-ins, AI cognitive reframing, personalized relaxation plans, guided breathing, synthesized ambient soundscapes, and AI journal analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
